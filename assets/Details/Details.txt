@@ -1,0 +1,14 @@
+linear-gradient(#BC3EC0,#8E3DBC)
+navbar:
+margin-top:3.6rem;
+line:
+width:120.3rem;
+margin-top:10.4rem;
+
+top-text:
+margin-top:37.6rem;
+top-text 2:
+margin-top:7.7rem;
+top-text 3:
+margin-top:2rem;
+button-color:#FF4A98;
